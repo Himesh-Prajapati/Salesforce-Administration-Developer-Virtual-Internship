@@ -11,9 +11,9 @@ The certification validates my expertise in managing Salesforce platform configu
 - App customization and page layouts  
 
 ## Certificate Link
-🔗 [View Salesforce Administrator Certificate](YOUR_CERTIFICATE_LINK_HERE)  
+🔗 [View Salesforce Administrator Certificate](https://github.com/Himesh-Prajapati/Salesforce-Administration-Developer-Virtual-Internship/blob/main/SalesForce%20Administration.pdf)  
 
 ## Contact
 For verification or collaboration, feel free to connect with me:  
-📧 Email: your-email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+📧 Email: prajapatihimesh84357@gmail.com
+💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/himesh-prajapati-68b06a356/)  
