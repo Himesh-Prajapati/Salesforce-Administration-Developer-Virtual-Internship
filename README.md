@@ -39,6 +39,6 @@ The certification validates my knowledge of Apex, Lightning Components, and Sale
 
 ## Contact
 For verification or collaboration, feel free to connect with me:  
-📧 Email: your-email@example.com  
+📧 Email: prajapatihimesh84357@gmail.com 
 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/himesh-prajapati-68b06a356/)  
 
